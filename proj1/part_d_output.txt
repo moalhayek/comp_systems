@@ -1,0 +1,124 @@
+For the list of size 10^1:
+Hi, I'm process 15059 and my parent is 15029.
+Hi, I'm process 15062 and my parent is 15059.
+Hi, I'm process 15060 and my parent is 15059.
+Hi, I'm process 15063 and my parent is 15060.
+Hi, I'm process 15065 and my parent is 15060.
+Hi, I'm process 15066 and my parent is 15063.
+Hi, I'm process 15068 and my parent is 15063.
+Hi, I'm process 15070 and my parent is 15066.
+Hi, I'm process 15071 and my parent is 15063.
+Hi, I'm process 15072 and my parent is 15066.
+Hi, I'm process 15073 and my parent is 15063.
+Hi, I'm process 15074 and my parent is 15066.
+Hi, I'm process 15075 and my parent is 15063.
+Hi, I'm process 15076 and my parent is 15066.
+Max=9923
+Min=989
+Sum=44544
+Time=0.000657sec
+
+For the list of size 10^2:
+Hi, I'm process 15059 and my parent is 15029.
+Hi, I'm process 15079 and my parent is 15059.
+Hi, I'm process 15077 and my parent is 15059.
+Hi, I'm process 15082 and my parent is 15059.
+Hi, I'm process 15083 and my parent is 15077.
+Hi, I'm process 15084 and my parent is 15080.
+Hi, I'm process 15080 and my parent is 15077.
+Hi, I'm process 15086 and my parent is 15077.
+Hi, I'm process 15088 and my parent is 15084.
+Hi, I'm process 15087 and my parent is 15059.
+Hi, I'm process 15090 and my parent is 15080.
+Hi, I'm process 15091 and my parent is 15077.
+Hi, I'm process 15093 and my parent is 15059.
+Hi, I'm process 15092 and my parent is 15084.
+Hi, I'm process 15094 and my parent is 15080.
+Hi, I'm process 15095 and my parent is 15077.
+Hi, I'm process 15096 and my parent is 15084.
+Hi, I'm process 15097 and my parent is 15080.
+Hi, I'm process 15098 and my parent is 15084.
+Hi, I'm process 15099 and my parent is 15080.
+Max=9992
+Min=158
+Sum=517434
+Time=0.001055sec
+
+For the list of size 10^3:
+Hi, I'm process 15059 and my parent is 15029.
+Hi, I'm process 15100 and my parent is 15059.
+Hi, I'm process 15103 and my parent is 15059.
+Hi, I'm process 15102 and my parent is 15100.
+Hi, I'm process 15104 and my parent is 15102.
+Hi, I'm process 15106 and my parent is 15059.
+Hi, I'm process 15109 and my parent is 15100.
+Hi, I'm process 15110 and my parent is 15102.
+Hi, I'm process 15111 and my parent is 15104.
+Hi, I'm process 15112 and my parent is 15059.
+Hi, I'm process 15113 and my parent is 15100.
+Hi, I'm process 15114 and my parent is 15102.
+Hi, I'm process 15115 and my parent is 15104.
+Hi, I'm process 15117 and my parent is 15100.
+Hi, I'm process 15116 and my parent is 15059.
+Hi, I'm process 15118 and my parent is 15102.
+Hi, I'm process 15119 and my parent is 15104.
+Hi, I'm process 15120 and my parent is 15100.
+Hi, I'm process 15121 and my parent is 15102.
+Hi, I'm process 15122 and my parent is 15104.
+Max=9994
+Min=8
+Sum=4975567
+Time=0.001376sec
+
+For the list of size 10^4:
+Hi, I'm process 15059 and my parent is 15029.
+Hi, I'm process 15123 and my parent is 15059.
+Hi, I'm process 15125 and my parent is 15059.
+Hi, I'm process 15128 and my parent is 15059.
+Hi, I'm process 15126 and my parent is 15123.
+Hi, I'm process 15129 and my parent is 15126.
+Hi, I'm process 15130 and my parent is 15123.
+Hi, I'm process 15131 and my parent is 15059.
+Hi, I'm process 15135 and my parent is 15123.
+Hi, I'm process 15136 and my parent is 15126.
+Hi, I'm process 15137 and my parent is 15059.
+Hi, I'm process 15138 and my parent is 15129.
+Hi, I'm process 15139 and my parent is 15123.
+Hi, I'm process 15140 and my parent is 15126.
+Hi, I'm process 15141 and my parent is 15129.
+Hi, I'm process 15142 and my parent is 15123.
+Hi, I'm process 15143 and my parent is 15126.
+Hi, I'm process 15144 and my parent is 15129.
+Hi, I'm process 15145 and my parent is 15126.
+Hi, I'm process 15146 and my parent is 15129.
+Max=10000
+Min=2
+Sum=50031321
+Time=0.001128sec
+
+For the list of size 10^5:
+Hi, I'm process 15059 and my parent is 15029.
+Hi, I'm process 15147 and my parent is 15059.
+Hi, I'm process 15149 and my parent is 15059.
+Hi, I'm process 15150 and my parent is 15147.
+Hi, I'm process 15152 and my parent is 15059.
+Hi, I'm process 15154 and my parent is 15147.
+Hi, I'm process 15153 and my parent is 15150.
+Hi, I'm process 15156 and my parent is 15150.
+Hi, I'm process 15157 and my parent is 15147.
+Hi, I'm process 15158 and my parent is 15059.
+Hi, I'm process 15160 and my parent is 15150.
+Hi, I'm process 15161 and my parent is 15153.
+Hi, I'm process 15162 and my parent is 15147.
+Hi, I'm process 15163 and my parent is 15059.
+Hi, I'm process 15165 and my parent is 15153.
+Hi, I'm process 15164 and my parent is 15150.
+Hi, I'm process 15166 and my parent is 15147.
+Hi, I'm process 15167 and my parent is 15150.
+Hi, I'm process 15168 and my parent is 15153.
+Hi, I'm process 15169 and my parent is 15153.
+Max=10000
+Min=0
+Sum=499425103
+Time=0.001621sec
+
